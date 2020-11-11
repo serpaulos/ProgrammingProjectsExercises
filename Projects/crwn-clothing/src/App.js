@@ -1,9 +1,13 @@
 import './App.css';
 
+//page components
+import Homepage from './homepage.component';
+
+
 function App() {
   return (
     <div>
-     <h1>Hello world</h1>
+     <Homepage></Homepage>
     </div>
   );
 }
