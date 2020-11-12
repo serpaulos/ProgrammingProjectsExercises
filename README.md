@@ -1,2 +1,2 @@
-"#Repository for Programming exercises and Projects" 
-"#Repository for Exercises" 
+Pasta criada para abrigar projetos e exercios feitos relacionados a area de
+desenvolvimento de software no mais diversos aspectos e tecnologias.
