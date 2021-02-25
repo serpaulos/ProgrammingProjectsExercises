@@ -1,0 +1,12 @@
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\bin\Debug\netcoreapp3.1\ProdutoPooCSharp.exe
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\bin\Debug\netcoreapp3.1\ProdutoPooCSharp.deps.json
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\bin\Debug\netcoreapp3.1\ProdutoPooCSharp.runtimeconfig.json
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\bin\Debug\netcoreapp3.1\ProdutoPooCSharp.runtimeconfig.dev.json
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\bin\Debug\netcoreapp3.1\ProdutoPooCSharp.dll
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\bin\Debug\netcoreapp3.1\ProdutoPooCSharp.pdb
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\obj\Debug\netcoreapp3.1\ProdutoPooCSharp.AssemblyInfoInputs.cache
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\obj\Debug\netcoreapp3.1\ProdutoPooCSharp.AssemblyInfo.cs
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\obj\Debug\netcoreapp3.1\ProdutoPooCSharp.csproj.CoreCompileInputs.cache
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\obj\Debug\netcoreapp3.1\ProdutoPooCSharp.dll
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\obj\Debug\netcoreapp3.1\ProdutoPooCSharp.pdb
+C:\Users\psergios\source\repos\ProdutoPooCSharp\ProdutoPooCSharp\obj\Debug\netcoreapp3.1\ProdutoPooCSharp.genruntimeconfig.cache
