@@ -1,0 +1,13 @@
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache
