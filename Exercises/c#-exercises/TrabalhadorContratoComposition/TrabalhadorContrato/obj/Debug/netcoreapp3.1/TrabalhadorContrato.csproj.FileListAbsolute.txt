@@ -1,0 +1,13 @@
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\bin\Debug\netcoreapp3.1\TrabalhadorContrato.exe
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\bin\Debug\netcoreapp3.1\TrabalhadorContrato.deps.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\bin\Debug\netcoreapp3.1\TrabalhadorContrato.runtimeconfig.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\bin\Debug\netcoreapp3.1\TrabalhadorContrato.runtimeconfig.dev.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\bin\Debug\netcoreapp3.1\TrabalhadorContrato.dll
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\bin\Debug\netcoreapp3.1\TrabalhadorContrato.pdb
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\obj\Debug\netcoreapp3.1\TrabalhadorContrato.csprojAssemblyReference.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\obj\Debug\netcoreapp3.1\TrabalhadorContrato.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\obj\Debug\netcoreapp3.1\TrabalhadorContrato.AssemblyInfo.cs
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\obj\Debug\netcoreapp3.1\TrabalhadorContrato.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\obj\Debug\netcoreapp3.1\TrabalhadorContrato.dll
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\obj\Debug\netcoreapp3.1\TrabalhadorContrato.pdb
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\TrabalhadorContrato\TrabalhadorContrato\obj\Debug\netcoreapp3.1\TrabalhadorContrato.genruntimeconfig.cache
