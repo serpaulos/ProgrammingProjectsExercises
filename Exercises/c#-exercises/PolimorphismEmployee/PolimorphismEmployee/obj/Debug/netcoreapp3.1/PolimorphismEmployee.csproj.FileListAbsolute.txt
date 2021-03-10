@@ -1,0 +1,13 @@
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\obj\Debug\netcoreapp3.1\PolimorphismEmployee.csprojAssemblyReference.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\obj\Debug\netcoreapp3.1\PolimorphismEmployee.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\obj\Debug\netcoreapp3.1\PolimorphismEmployee.AssemblyInfo.cs
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\obj\Debug\netcoreapp3.1\PolimorphismEmployee.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\bin\Debug\netcoreapp3.1\PolimorphismEmployee.exe
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\bin\Debug\netcoreapp3.1\PolimorphismEmployee.deps.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\bin\Debug\netcoreapp3.1\PolimorphismEmployee.runtimeconfig.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\bin\Debug\netcoreapp3.1\PolimorphismEmployee.runtimeconfig.dev.json
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\bin\Debug\netcoreapp3.1\PolimorphismEmployee.dll
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\bin\Debug\netcoreapp3.1\PolimorphismEmployee.pdb
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\obj\Debug\netcoreapp3.1\PolimorphismEmployee.dll
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\obj\Debug\netcoreapp3.1\PolimorphismEmployee.pdb
+D:\Cursos\Programacao\C#DotNet\NelioAlves\repos\PolimorphismEmployee\PolimorphismEmployee\obj\Debug\netcoreapp3.1\PolimorphismEmployee.genruntimeconfig.cache
