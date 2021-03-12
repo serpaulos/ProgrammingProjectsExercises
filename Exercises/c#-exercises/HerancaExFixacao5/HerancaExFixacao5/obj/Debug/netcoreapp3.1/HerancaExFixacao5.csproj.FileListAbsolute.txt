@@ -1,0 +1,13 @@
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\bin\Debug\netcoreapp3.1\HerancaExFixacao5.exe
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\bin\Debug\netcoreapp3.1\HerancaExFixacao5.deps.json
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\bin\Debug\netcoreapp3.1\HerancaExFixacao5.runtimeconfig.json
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\bin\Debug\netcoreapp3.1\HerancaExFixacao5.runtimeconfig.dev.json
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\bin\Debug\netcoreapp3.1\HerancaExFixacao5.dll
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\bin\Debug\netcoreapp3.1\HerancaExFixacao5.pdb
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\obj\Debug\netcoreapp3.1\HerancaExFixacao5.csprojAssemblyReference.cache
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\obj\Debug\netcoreapp3.1\HerancaExFixacao5.AssemblyInfoInputs.cache
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\obj\Debug\netcoreapp3.1\HerancaExFixacao5.AssemblyInfo.cs
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\obj\Debug\netcoreapp3.1\HerancaExFixacao5.csproj.CoreCompileInputs.cache
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\obj\Debug\netcoreapp3.1\HerancaExFixacao5.dll
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\obj\Debug\netcoreapp3.1\HerancaExFixacao5.pdb
+C:\Users\psergios\source\repos\HerancaExFixacao5\HerancaExFixacao5\obj\Debug\netcoreapp3.1\HerancaExFixacao5.genruntimeconfig.cache
